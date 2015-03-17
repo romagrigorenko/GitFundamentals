@@ -8,5 +8,8 @@ namespace GitTest
 {
     class Class1
     {
+        //test
+
+        // from andrey
     }
 }
